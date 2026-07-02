@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,24655,t=>{"use strict";var e=t.i(38797),l=t.i(9735);let c=(0,e.default)((0,l.jsx)("path",{d:"M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"}),"Check");t.s(["default",0,c])}]);
